@@ -1,0 +1,21 @@
+// <div className="filters extras">
+//   <span className="title">
+//     Extras
+//   </span>
+//   <label htmlFor="extras">
+//     <span>Elevator</span>
+//     <input name="elevator"  type="checkbox" onChange={this.props.change} value="elevator"   />
+//   </label>
+//   <label htmlFor="extras">
+//     <span>Swimming Pool</span>
+//     <input name="swimming_pool" type="checkbox" onChange={this.props.change} value="swimming_pool" />
+//   </label>
+//   <label htmlFor="extras">
+//     <span>Finished Basement</span>
+//     <input name="finished_basement" value="finished_basement" type="checkbox" onChange={this.props.change} value="finished_basement" />
+//   </label>
+//   <label htmlFor="extras">
+//     <span>Gym</span>
+//     <input name="gym" value="gym" type="checkbox" onChange={this.props.change}/>
+//   </label>
+// </div>
